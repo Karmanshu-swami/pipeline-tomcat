@@ -7,7 +7,7 @@ pipeline {
 	    	label "pipeline"
 		}
             steps {
-                git 'https://github.com/sr98877/pipeline-code.git'
+                git 'https://github.com/Karmanshu-swami/pipeline-tomcat.git'
             }
             
         }
